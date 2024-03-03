@@ -15,6 +15,7 @@
 
 The **Freedom From Fear** project is a an aggregator of several different ways one can donate to the Ukrainian Armed Forces without incurring risk of repression or persecution.
 
+
 ### Problem Statement
 
 For many people, donations to the Ukrainian Armed Forces carry a significant perceived risk. This is justified as such donations are considered treason in russia, and treason is currently punishable by up to 25 years in prison. While donations to the Ukrainian Armed Forces are one of the most effective ways to ensure the eventual dissolution of russia, the risks detailed above mean that plenty of possible donations are prevented by fear of possible retribution from the russian government. This is especially true if the donating party has to visit russia or has family members in russia.
@@ -44,7 +45,6 @@ The justification for the above solutions is as follows.
 ### Limitations
 
 The organisers acknowledge that no donation to the Ukrainian Armed Forces is free of risk given the severity and brutality of the current russian government. Nonetheless, given the resources available to the authors of the project, we believe that the project sufficiently mitigates the risk of persecution for the average person.
-
 
 # FAQ
 
