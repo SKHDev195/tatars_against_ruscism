@@ -5,9 +5,10 @@
 # Mission
 
 * To inform and educate stakeholders worldwide about political and cultural repression facing the representatives of native ethnic groups currently residing in Russia
+* To provide informational and monetary support to any organisations whose main objectives include the democratisation and decolonisation of Russia
+* To provide informational and monetary support to the Armed Forces of Ukraine
 * To advocate for the establishment of independent ethno-states within the current territory of the Russian Federation
 * To advocate for worldwide recognition of the term 'ruscism' as the main ideology of Russia under the rule of V. Putin
-* To provide informational and monetary support to the Armed Forces of Ukraine
 
 # Projects
 
