@@ -1,13 +1,13 @@
 # Tatars Against Ruscism
 
-**Tatars Against Ruscism** is a free movement of activists dedicated to destroying russian imperialism, and preserving the language and culture of native ethnic groups residing in russia including bashqorts, buryats, ainu, tuvats, and many others.
+**Tatars Against Ruscism** is a free movement of activists standing against Russian imperialism, and preserving the language and culture of native ethnic groups currently residing in Russia including bashqorts, buryats, ainu, tuvats, and many others.
 
 # Mission
 
-* To facilitate the process of establishing independent ethno-states within the current territory of the russian federation
-* To support the Armed Forces of Ukraine in their fight against ruscism
-* To inform and educate stakeholders worldwide about the significance of various native ethnic groups annexed by russia/USSR/the russian empire
-* To inform and educate stakeholders worldwide about how the dissolution of russia is the only path to stability and peace on the European continent
+* To inform and educate stakeholders worldwide about political and cultural repression facing the representatives of native ethnic groups currently residing in Russia
+* To advocate for the establishment of independent ethno-states within the current territory of the Russian Federation
+* To advocate for worldwide recognition of the term 'ruscism' as the main ideology of Russia under the rule of V. Putin
+* To provide informational and monetary support to the Armed Forces of Ukraine
 
 # Projects
 
